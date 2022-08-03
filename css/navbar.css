@@ -1,0 +1,29 @@
+.navbar{
+    padding: 60px 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar-menu{
+    display: flex;
+}
+.navbar-menu li{
+    padding: 0 20px;
+}
+.navbar-menu li a:hover{
+    color: #ff4820;
+}
+.btn {
+    padding: 20px 40px;
+    cursor: pointer;
+}
+.sign-in{
+    background-color: transparent;
+}
+.sign-up{
+    background-color: #ff4820;
+    border-radius: 5px;
+}
+.sign-in:hover a{
+    color: #ff4820;
+}
