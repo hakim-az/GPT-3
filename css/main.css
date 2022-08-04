@@ -39,3 +39,15 @@ h1,h2{
 h3{
     font-size: 34px;
 }
+.heading .ruler{
+    width: 38px;
+    height: 3px;
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    margin-bottom: 15px;
+}
+.heading span{
+    color: #ffffff;
+    font-size: 24px;
+}
+
+/* background-image: linear-gradient(to right bottom, #1b78de, #176eca, #1463b7, #1259a4, #104f91, #104f91, #104f91, #104f91, #1259a4, #1463b7, #176eca, #1b78de); */
